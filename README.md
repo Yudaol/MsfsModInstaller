@@ -1,15 +1,24 @@
 # MsfsModInstaller
-an mod installer for microsoft flight simulator
 
+A mod installer for Microsoft Flight Simulator.
 
-juste download the python file and execute it:
-```
-python3 MsfModInstaller.py
-```
+## Usage
 
-or download exe in release and open it
+### Option 1: Using Python
 
-## when you open the exe the blue alerte is here beceause the file are not signed
+1. Download the Python file.
+2. Execute it using the following command:
+    ```bash
+    python3 MsfModInstaller.py
+    ```
 
+### Option 2: Using the Executable
 
-(the exe is juste the python compiled)
+1. Download the executable from the release section.
+2. Open the executable.
+
+## Note
+
+When you open the executable, the blue alert appears because the file is not signed.
+
+*(The executable is just the compiled Python script.)*
